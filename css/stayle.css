@@ -1,15 +1,70 @@
-body {
-    background-color: aqua;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(81, 0, 255);
-    padding: 30px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-h1 {
-    color:blueviolet;
+header{
+    text-align: center;
+    font-family: Arial;
+    color: blue;
+     #subtitle{
+    color: black;
 
+
+ }
+ }
+
+ section{
+        font-family: Arial;
+        color: blue;
+        font-size:18px;
+ }
+
+ article{
+    #ia{
+        color: red;
+    }
 }
 
-h2{
-    color: violet;
-}
+    #html{
+        color: red;
+    }
+
+    section2{
+        font-size: 18px;
+        color: blue;
+    }
+
+    article2{
+        #jogos{
+            color: red;
+        }
+    }
+
+    article3{
+        #lopal{
+            color: red;
+        }
+    }
+
+    aside{
+        text-align: center;
+        h2{
+            color: blue;
+        }
+        margin-top: 3%;
+    }
+
+    footer{
+        text-align: center;
+    }
+
+    hr{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    h1{
+        letter-spacing: 3px;
+    }
